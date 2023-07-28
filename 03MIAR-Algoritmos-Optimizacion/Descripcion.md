@@ -1,1 +1,0 @@
-# 03MIAR Algoritmosde Optimización
