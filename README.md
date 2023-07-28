@@ -1,4 +1,4 @@
-# Master Universitario en Inteligencia Artificial 2023 (VIU)}
+# Master Universitario en Inteligencia Artificial 2023 (VIU)
 
 ![](https://keystoneacademic-res.cloudinary.com/image/upload/element/14/146414_VIU_Cover_Cover.jpg)
 
